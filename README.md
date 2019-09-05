@@ -10,3 +10,5 @@ Eksempel for punktopstilling
 - Punkt 2
   - Underpunkt
 - Punkt 3
+
+Nu har vi commitet for mac
